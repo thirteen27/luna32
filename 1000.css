@@ -50,8 +50,11 @@
 
 
 .nndskjdhujnc .ncasjkdcmsdjdmj .right-text {
+    padding: 15px 15px;
+}
+
+.right-text {
     background-image: url(photos/angel-bg.jpg);
     background-repeat: no-repeat;
     background-size: 100% 100%;
-    padding: 15px 15px;
 }
